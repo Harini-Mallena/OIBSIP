@@ -119,5 +119,5 @@ Instead of treating all customers in the same way, the business can use differen
 
 ## Files
 
-- `Customer_Segmentation.ipynb` – Jupyter Notebook containing the complete analysis
+- `level01task02customersegmentation.ipynb` – Jupyter Notebook containing the complete analysis
 - `customer_dataset.xlsx` – Dataset used for the project
